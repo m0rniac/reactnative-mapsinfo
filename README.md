@@ -3,6 +3,7 @@
 This is a React Native (with Expo CLI) Android oriented APP that allows you to find and explore information about countries by tapping on the map. It displays details such as the country's name, capital, region, population, and more. You can also view beautiful photos of the selected country. 🗺️ 📸
 
 ## Demo:
+![DEMO](./assets/demo.mp4)
 <video width="540" height="960" controls>
   <source src="./assets/demo.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de vídeos.
